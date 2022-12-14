@@ -1,0 +1,11 @@
+C:\Users\eduardo.obinoki\source\repos\Aula14Dez\bin\Debug\Aula14Dez.exe.config
+C:\Users\eduardo.obinoki\source\repos\Aula14Dez\bin\Debug\Aula14Dez.exe
+C:\Users\eduardo.obinoki\source\repos\Aula14Dez\bin\Debug\Aula14Dez.pdb
+C:\Users\eduardo.obinoki\source\repos\Aula14Dez\obj\Debug\Aula14Dez.csproj.AssemblyReference.cache
+C:\Users\eduardo.obinoki\source\repos\Aula14Dez\obj\Debug\Aula14Dez.csproj.SuggestedBindingRedirects.cache
+C:\Users\eduardo.obinoki\source\repos\Aula14Dez\obj\Debug\Aula14Dez.Form1.resources
+C:\Users\eduardo.obinoki\source\repos\Aula14Dez\obj\Debug\Aula14Dez.Properties.Resources.resources
+C:\Users\eduardo.obinoki\source\repos\Aula14Dez\obj\Debug\Aula14Dez.csproj.GenerateResource.cache
+C:\Users\eduardo.obinoki\source\repos\Aula14Dez\obj\Debug\Aula14Dez.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.obinoki\source\repos\Aula14Dez\obj\Debug\Aula14Dez.exe
+C:\Users\eduardo.obinoki\source\repos\Aula14Dez\obj\Debug\Aula14Dez.pdb
